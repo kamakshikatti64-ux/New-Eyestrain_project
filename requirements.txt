@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+opencv-python-headless
+mediapipe
+scikit-learn
+gspread
+oauth2client
