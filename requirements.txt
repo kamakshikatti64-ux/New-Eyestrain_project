@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-opencv-python-headless
+opencv-python-headless==4.8.1.78
 mediapipe
 scikit-learn
 gspread
