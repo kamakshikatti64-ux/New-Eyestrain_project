@@ -4,3 +4,4 @@ numpy
 opencv-python-headless
 Pillow
 scikit-learn
+mediapipe==0.10.9
