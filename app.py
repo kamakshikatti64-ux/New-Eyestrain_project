@@ -7,9 +7,9 @@ import time
 import math
 from datetime import datetime
 
-#import mediapipe as mp
-#from mediapipe.tasks import python
-#from mediapipe.tasks.python import vision
+import mediapipe as mp
+from mediapipe.tasks import python
+from mediapipe.tasks.python import vision
 
 
 # ---------- FOLDERS ----------
