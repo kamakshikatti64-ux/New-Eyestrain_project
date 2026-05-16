@@ -1,7 +1,7 @@
 streamlit
-pandas
 numpy
+pandas
 opencv-python-headless
-Pillow
+mediapipe
 scikit-learn
-mediapipe==0.10.9
+Pillow
