@@ -89,7 +89,7 @@ def record_video(participant_id, session_label, duration_seconds):
 
     if not os.path.exists(MODEL_PATH):
         st.error("face_landmarker.task file not found in this folder.")
-        return "Model file missing"
+        return "Model file missing."
 
     if session_label == "Baseline":
         folder = "videos/Morning"
