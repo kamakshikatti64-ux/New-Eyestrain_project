@@ -7,3 +7,4 @@ scikit-learn
 Pillow
 streamlit-webrtc
 av
+tornado==6.4.2
